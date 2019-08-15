@@ -1,0 +1,11 @@
+{
+  "isRoot": true,
+  "tools": {
+    "dotnetsay": {
+      "version": "2.1.4",
+      "commands": [
+        "dotnetsay"
+      ]
+    }
+  }
+}
